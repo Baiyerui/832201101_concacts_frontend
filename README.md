@@ -15,6 +15,7 @@
     - vue create contacts-frontend
     - cd contacts-frontend
     - npm install axios
+    - npm install bootstrap
      ```
   
 > [!NOTE]
@@ -41,9 +42,9 @@
 |-- package.json
 |-- src
 |   |-- App.vue
-|	  |-- main.js 
+|   |-- main.js 
 |   |-- components //组件
-|       |-- ContactList.vue //
+|       |-- ContactList.vue 
 ```
 
 
