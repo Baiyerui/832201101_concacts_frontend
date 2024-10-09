@@ -17,10 +17,14 @@
     - npm install axios
     - npm install bootstrap
      ```
+  - After installing the environment, enter the following code to start the front end
+    ```
+    -npm run serve
+    ```
   
 > [!NOTE]
 >
-> After the build is complete, the current folder will appear called **node_modules**
+> After the build is complete will create a folder called **node_modules**
 
 
 
