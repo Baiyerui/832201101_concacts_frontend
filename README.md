@@ -28,7 +28,7 @@
 
 
 
-###  Feature
+### Function
 
 -  Add a contact
 -  Delete a contact
